@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Level\Map.cs" Line="41" Column="63" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="44" Column="25" />
+      <File FileName="Assets\Scripts\Level\LevelGenerator.cs" Line="34" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
