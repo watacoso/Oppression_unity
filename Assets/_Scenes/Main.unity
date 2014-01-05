@@ -115,7 +115,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 5b22d7e2b449b0942a26c2f6f262bce0, type: 2}
       propertyPath: nEnemies
-      value: 5
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5b22d7e2b449b0942a26c2f6f262bce0, type: 2}
@@ -308,7 +308,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 12
+  orthographic size: 8
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -451,7 +451,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c94e9afbf578aa41be401189392b46e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveForce: 400
+  moveForce: 200
 --- !u!1 &1547706551
 GameObject:
   m_ObjectHideFlags: 0
@@ -483,7 +483,7 @@ MonoBehaviour:
   mapWidth: 128
   mapHeight: 128
   mapSize: 40
-  nEnemies: 5
+  nEnemies: 1
 --- !u!4 &1547706555
 Transform:
   m_ObjectHideFlags: 0

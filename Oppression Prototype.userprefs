@@ -1,10 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Escape Room\Assets\Scripts\LevelEvents\IntroLevel.cs">
     <Files>
-      <File FileName="Assets\Scripts\Level\Map.cs" Line="41" Column="63" />
-      <File FileName="Assets\Scripts\Enemy.cs" Line="44" Column="25" />
-      <File FileName="Assets\Scripts\Level\LevelGenerator.cs" Line="34" Column="41" />
+      <File FileName="..\Escape Room\Assets\Scripts\LevelEvents\IntroLevel.cs" Line="4" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
